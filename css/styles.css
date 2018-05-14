@@ -1,0 +1,129 @@
+/*Home Page*/
+
+.home_page {
+  background-color: #00b894;
+  font-family: Georgia, sans-serif;
+  color: #2d3436;
+}
+
+
+.nav {
+  margin: 12px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #2d3436;
+  font-size: 17px;
+  padding-right: 15px;
+}
+
+
+.top-banner {
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.map {
+  margin: 12px;
+}
+
+.images {
+  padding: 15px 0 15px 0;
+}
+
+li a {
+  padding-right: 0;
+  text-decoration: underline;
+  color: #2d3436
+}
+
+.news {
+  margin: 30px auto;
+}
+
+.news h3 {
+  padding-left: 40px;
+}
+
+.news p {
+  padding: 0 40px 0 40px;
+}
+
+/*Band List*/
+
+
+.bands_page {
+  background-color: #dcdde1;
+  font-family: Georgia, sans-serif;
+}
+
+.band_section {
+  margin: 12px;
+
+}
+.band_list {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.band_list li {
+  padding-top: 15px;
+  font-weight: 700;
+}
+
+/*Cubs Page*/
+
+.cubs_page {
+  background-color: #002F6C;
+  color: white;
+  font-family: Georgia, sans-serif;
+}
+
+.cubs_page .nav a {
+  color: white;
+}
+
+.video {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.pictures {
+  margin: 20px auto;
+  width: 80%;
+
+}
+
+.pictures img {
+  float: left;
+  width: 24%;
+  display: inline-block;
+}
+
+/*Puerto Rico*/
+
+.pr_page {
+  background-color: #18dcff;
+  color: white;
+  font-family: Georgia, sans-serif;
+}
+
+.pr_page .nav a {
+  color: white;
+}
+
+.pr_pictures {
+  margin: 20px auto;
+  display: inline-block;
+}
+
+figure {
+  display: inline-block;
+  margin: 0;
+}
+
+figcaption {
+  text-align: center;
+}
